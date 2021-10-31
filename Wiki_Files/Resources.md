@@ -195,7 +195,7 @@ __Link:__ [HypeSquad Events](https://dis.gd/hypesquad)
 __Link:__ [Verification Program](https://dis.gd/verification)
 
 
-# __**Unofficial Servers:**__
+# __**Unofficial Servers**__
 
 ## **Discord API**
 > __Description:__ A server dedicated to information and assistance with the Discord API. \
@@ -256,7 +256,7 @@ __Link:__ (only by referral) \
 __Credit:__ Dev Hub team (owned by Merlin#1337 | 386861188891279362)
 
 
-# __**Unofficial Resources:**__
+# __**Unofficial Resources**__
 
 ## **List of dis.gd URLs**
 > __Description:__ A list of all the shortened Discord links. \
@@ -637,7 +637,7 @@ __Credit:__ Geek#8405 (287698408855044097)
 > __Description:__ List and methods to unicode empty characters. \
 __Link:__ [Empty Characters](https://emptycharacter.com)
 
-## **Blank Characters:**
+## **Blank Characters**
 > __Description:__ A list of blank Unicode characters. \
 __Link:__ [Blank Charcaters](https://character.construction/blanks)
 
@@ -649,7 +649,7 @@ __Link:__ [Internet Slang](https://www.ruf.rice.edu/~kemmer/Words04/usage/slang_
 > __Description:__ Find and understand text tone indicators. \
 __Link:__ [Tone Indicators](https://toneindicators.carrd.co/)
 
-## **Discord Tools:**
+## **Discord Tools**
 > __Description:__ A collection of Discord tools for power users to analyse your guilds, get information on snowflakes, or even see the current status of Discord. Get the # of guilds your account is in, see how many servers you own, moderate, are partnered, and show lists of all servers in the categories above as well as a list of all servers. \
 __Link:__ [Discord Tools](https://discordtools.io/) \
 __Credit:__ Coding#0001 (276544649148235776)
@@ -659,7 +659,7 @@ __Credit:__ Coding#0001 (276544649148235776)
 __Link:__ [Discord Toolbox](https://distools.app/) \
 __Credit:__ Merlin#1337 (386861188891279362)
 
-## **Discord Invite Info:**
+## **Discord Invite Info**
 > __Description:__ Shows info about a guild using an invitation. \
 __Link:__ [Discord Invite Info](https://discordinvite.info/)
 
@@ -846,7 +846,7 @@ __Link(s):__ \
 
 ## __**Converters**__
 - Time Converters 
-### **HammerTime:**
+### **HammerTime**
 > __Description:__ Pick a date, copy the desired timestamp from the Chat syntax column, then paste it anywhere in a chat message. \
 The result will be a dynamic timestamp that displays differently for everyone based on their own timezone. \
 __Link:__ [HammerTime](https://hammertime.djdavid98.art/) \
@@ -868,7 +868,7 @@ __Link(s):__ \
 [Alfred-Snowcord](https://github.com/HilbertGilbertson/alfred-snowcord) \
 __Credit:__ HilbertGilbertson#1234 (213023662066892800)
 
-### **Epoch Converter (Epoch & Unix timestamp conversion tools):**
+### **Epoch Converter (Epoch & Unix timestamp conversion tools)**
 > __Description:__ Converts a time given into a Unix timestamp. \
 __Link:__ [Epoch Converter](https://www.epochconverter.com/) 
 
